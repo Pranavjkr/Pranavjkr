@@ -1,16 +1,27 @@
-## Hi there 👋
+# Pranav Jeyakumar
 
-<!--
-**Pranavjkr/Pranavjkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSCS @ UMass Amherst • ML Systems • LLM Inference + Evaluation • PyTorch
 
-Here are some ideas to get you started:
+I build practical systems around deep learning: profiling, efficiency, and reliable model evaluation.  
+Currently interested in **LLM inference optimization (KV cache / memory)** and **human-in-the-loop measurement**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🔧 ML Systems Experiments
+Benchmarking + profiling PyTorch workloads (matmul, bandwidth, kernel overhead).
+- Repo: `ml-systems-experiments`
+
+### 🧠 KV Cache & Inference Lab
+Practical experiments around attention caching and memory usage.
+- Repo: `kv-cache-lab`
+
+### 🌊 Normalizing Flows (RealNVP)
+From-scratch implementation + sanity checks and visualization.
+- Repo: `realnvp-normalizing-flows`
+
+## Skills
+PyTorch • CUDA awareness • Profiling • Systems thinking • Research-oriented engineering
+
+## Contact
+- GitHub: https://github.com/<YOUR_USERNAME>
+- (Optional) LinkedIn: add later
