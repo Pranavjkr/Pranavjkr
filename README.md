@@ -23,5 +23,5 @@ From-scratch implementation + sanity checks and visualization.
 PyTorch • CUDA awareness • Profiling • Systems thinking • Research-oriented engineering
 
 ## Contact
-- GitHub: https://github.com/<YOUR_USERNAME>
-- (Optional) LinkedIn: add later
+- GitHub: https://github.com/Pranavjkr
+- LinkedIn: https://www.linkedin.com/in/pranav-jeyakumar/
